@@ -138,16 +138,6 @@ The clusters are also visualized to compare passenger traffic patterns over time
 
 ---
 
-## Project Structure
-
-**san-francisco-airport-clustering**
-
-- `san_francisco_airport_clustering.ipynb` — Complete clustering analysis
-- `air-traffic-passenger-statistics.csv` — Dataset
-- `README.md` — Project documentation
-
----
-
 ## Conclusion
 
 This project applies **K-Means clustering** to passenger traffic data from San Francisco International Airport.
